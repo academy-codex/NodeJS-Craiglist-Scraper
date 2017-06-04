@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Gateway MA1 Laptop Laptops 1.73gHz 1GB RAM 60GB HDD! Windows 7!",
+    "price": "$79"
+  },
+  {
+    "title": "LAPTOPS for SALE $50 to $175",
+    "price": ""
+  },
+  {
+    "title": "Brand New ACME MADE Laptop bag for 13 inch laptops",
+    "price": "$25"
+  },
+  {
+    "title": "Gateway MA1 Laptop Laptops 1.73gHz 1GB RAM 60GB HDD! Windows 7!",
+    "price": "$79"
+  },
+  {
+    "title": "Gateway MA1 Laptop Laptops 1.73gHz 1GB RAM 60GB HDD! Windows 7!",
+    "price": "$79"
+  },
+  {
+    "title": "Dell Latitude 700M Mini Laptops in Excellent Condition! Laptop Laptops",
+    "price": "$99"
+  },
+  {
+    "title": "Lipault Crossbody Shoulder Messenger Bag Tote Black Nylon Laptops 17.3",
+    "price": "$50"
+  },
+  {
+    "title": "BUILT Laptop Sleeve 16\" (15-16\" laptops) Lush Flower",
+    "price": "$15"
+  },
+  {
+    "title": "We Buy Laptops / We Also Offer Collateral Loans for Laptops",
+    "price": ""
+  },
+  {
+    "title": "Pair of Portable Speakers USB Powered for Laptops 2.5\" Square",
+    "price": "$25"
+  },
+  {
+    "title": "Pair of Portable Speakers USB Powered for Laptops 2.5\" Square",
+    "price": "$25"
+  },
+  {
+    "title": "Pair of Portable Speakers USB Powered for Laptops 2.5\" Square",
+    "price": "$25"
+  },
+  {
+    "title": "Selling 3 laptops for parts. 1 is a net book and works",
+    "price": ""
+  },
+  {
+    "title": "Memory for Laptops and Desktops",
+    "price": "$8"
+  },
+  {
+    "title": "Scrap Laptops and PC's",
+    "price": ""
+  },
+  {
+    "title": "10 x Dell D630 Laptops C2D, 2GB, 60GB, Win 7, Charger Included - $800 OBO.   Fre",
+    "price": "$800"
+  },
+  {
+    "title": "Pair of Portable Speakers USB Powered for Laptops 2.5\" Square",
+    "price": "$25"
+  },
+  {
+    "title": "Pair of Portable Speakers USB Powered for Laptops 2.5\" Square",
+    "price": "$25"
+  },
+  {
+    "title": "Pair of Portable Speakers USB Powered for Laptops 2.5\" Square",
+    "price": "$25"
+  },
+  {
+    "title": "10 x Dell D630 Laptops C2D, 2GB, 60GB, Win 7, Charger Included - $800 OBO.   Fre",
+    "price": "$800"
+  },
+  {
+    "title": "We need laptops cpu i5 or up",
+    "price": "$150"
+  },
+  {
+    "title": "10 x Dell D630 Laptops C2D, 2GB, 60GB, Win 7, Charger Included - $800 OBO",
+    "price": "$800"
+  },
+  {
+    "title": "PNY CS1311 960GB Internal SATA Solid State Drive for Laptops Brand New",
+    "price": "$1"
+  },
+  {
+    "title": "2 Laptops - Macbook - Samsung Netbook",
+    "price": "$100"
+  },
+  {
+    "title": "Apple Mac and PC Computers Laptops and Desktops For Cash on Spot...",
+    "price": ""
+  },
+  {
+    "title": "Apple Mac and PC Computers Laptops and Desktops For Cash on Spot...",
+    "price": ""
+  },
+  {
+    "title": "Foldable Laptop Bed Tray | Lap Desk Supports Laptops",
+    "price": "$10"
+  },
+  {
+    "title": "Apple Mac and PC Computers Laptops and Desktops For Cash on Spot...",
+    "price": ""
+  },
+  {
+    "title": "Apple Mac and PC Computers Laptops and Desktops For Cash on Spot...",
+    "price": ""
+  },
+  {
+    "title": "💙___BEST___SOFTWARES___FOR___PC/MAC/LAPTOPS____💙",
+    "price": ""
+  },
+  {
+    "title": "💙___BEST___SOFTWARES___FOR___PC/MAC/LAPTOPS____💙",
+    "price": ""
+  },
+  {
+    "title": "We need laptops cpu i5 or up",
+    "price": "$150"
+  },
+  {
+    "title": "We need laptops cpu i5 or up",
+    "price": "$150"
+  },
+  {
+    "title": "We need laptops cpu i5 or up",
+    "price": "$150"
+  },
+  {
+    "title": "We need laptops cpu i5 or up",
+    "price": "$150"
+  },
+  {
+    "title": "We need laptops cpu i5 or up",
+    "price": "$150"
+  },
+  {
+    "title": "LapTop Sale!!! Liquidating All Laptops  $100 & UP",
+    "price": ""
+  },
+  {
+    "title": "cheap laptops",
+    "price": "$1"
+  },
+  {
+    "title": "Used older MAC laptops",
+    "price": "$95"
+  },
+  {
+    "title": "Ƹ̵̡Ӝ̵̨̄Ʒ  BUYING LAPTOPS PHONES ETCwww.",
+    "price": ""
+  },
+  {
+    "title": "Ƹ̵̡Ӝ̵̨̄Ʒ  BUYING LAPTOPS PHONES ETCwww.",
+    "price": ""
+  },
+  {
+    "title": "Ƹ̵̡Ӝ̵̨̄Ʒ  BUYING LAPTOPS PHONES ETCwww.",
+    "price": ""
+  },
+  {
+    "title": "Ƹ̵̡Ӝ̵̨̄Ʒ  BUYING LAPTOPS PHONES ETCwww.",
+    "price": ""
+  },
+  {
+    "title": "(New)Targus Notepac Case for 15.4 Inch Laptops",
+    "price": "$20"
+  },
+  {
+    "title": "two fixer upper laptops with chargeable batteries",
+    "price": "$50"
+  },
+  {
+    "title": "AC POWER ADAPTERS FOR DELL LAPTOPS",
+    "price": "$10"
+  },
+  {
+    "title": "Brand new 3M GPF12.5W9 Black Privacy Filter for WScreen Laptop 12.5\"",
+    "price": "$30"
+  },
+  {
+    "title": "New 130 Watt Dell OEM Power Adapter",
+    "price": "$65"
+  },
+  {
+    "title": "Cugatti Brown Soft Leather laptop briefcase",
+    "price": "$70"
+  },
+  {
+    "title": "Targums defcon laptop lock",
+    "price": "$10"
+  },
+  {
+    "title": "CODi Mobile Lite Wheeled Roller Laptop Case for 15-Inch Laptop / Noteb",
+    "price": "$15"
+  },
+  {
+    "title": "3M Adjustable Monitor / laptop / Stand",
+    "price": "$20"
+  },
+  {
+    "title": "Bose Laptop / Tablet / Phone Speakers",
+    "price": "$20"
+  },
+  {
+    "title": "Dell Latitude E6400 Core 2 Duo Laptop Computer Windows 7 WiFi WEBCAM",
+    "price": "$129"
+  },
+  {
+    "title": "IBM lenovo Thinkpad R61 Laptop Computer Excellent Condition Windows 7",
+    "price": "$89"
+  },
+  {
+    "title": "Dell Latitude D630 Core 2 Duo laptop Computer Windows 7 Ready to USE",
+    "price": "$99"
+  },
+  {
+    "title": "IBM Lenovo T400 Core 2 Duo 2.53gHz 2GB RAM 100GB HDD!",
+    "price": "$129"
+  },
+  {
+    "title": "Lenovo Ideapad 110 - Less than 1 week old",
+    "price": "$200"
+  },
+  {
+    "title": "*MANY* Dell Latitude Laptop 1.60GHz Atom  60GB HD Touch",
+    "price": "$37"
+  },
+  {
+    "title": "Dell Latitude E6400 Core 2 Duo Laptop Computer Windows 7 WiFi WEBCAM",
+    "price": "$129"
+  },
+  {
+    "title": "Dell Latitude E6400 Core 2 Duo Laptop Computer Windows 7 WiFi WEBCAM",
+    "price": "$129"
+  },
+  {
+    "title": "Laptop Service Center",
+    "price": "$40"
+  },
+  {
+    "title": "Laptop Service Center",
+    "price": "$40"
+  },
+  {
+    "title": "Laptop Service Center",
+    "price": "$40"
+  },
+  {
+    "title": "Dell Latitude D830 Core 2 Duo Laptop Computer Windows 7 WIFI READY",
+    "price": "$99"
+  },
+  {
+    "title": "256GB Micro SD Card with FREE Adapter Class 10 Universal TF Memory Car",
+    "price": "$40"
+  },
+  {
+    "title": "laptop blow out sale starting as low as $80",
+    "price": "$80"
+  },
+  {
+    "title": "Laptop WEEKEND Deal!",
+    "price": "$120"
+  },
+  {
+    "title": "Kensington Universal Notebook Docking Station K33930 Win XP/Vista",
+    "price": "$35"
+  },
+  {
+    "title": "IBM Lenovo T400 Core 2 Duo 2.53gHz 2GB RAM 100GB HDD!",
+    "price": "$129"
+  },
+  {
+    "title": "Dell Latitude E7470 with Touch 6th Gen i7 3.4, 14\" QHD (2560x1440) 3yr",
+    "price": "$900"
+  },
+  {
+    "title": "Dell Laptop Docking Station: PR01x D-Port Replicator",
+    "price": "$11"
+  },
+  {
+    "title": "Samsonite Colombian Leather Flap-Over Laptop Messenger Bag",
+    "price": "$90"
+  },
+  {
+    "title": "Dell Latitude E6400 Core 2 Duo Laptop Computer Windows 7 WiFi WEBCAM",
+    "price": "$129"
+  },
+  {
+    "title": "Apple,Mac Mini .Macbook white,  Hp ,Dell Inspiron. Toshiba.",
+    "price": "$150"
+  },
+  {
+    "title": "phone repair Laptop repair with WARRANTY ***** 5 STAR Company!",
+    "price": ""
+  },
+  {
+    "title": "IBM lenovo Thinkpad T61 Laptop Computer Excellent Condition Windows 7",
+    "price": "$95"
+  },
+  {
+    "title": "Dell Latitude D830 Core 2 Duo Laptop Computer Windows 7 WIFI READY",
+    "price": "$99"
+  },
+  {
+    "title": "Amazing Apple MacBook Intel Core 2 Duo",
+    "price": "$160"
+  },
+  {
+    "title": "NWT TIMBUK2 Commute Laptop Carrier Messenger Bag Briefcase Black",
+    "price": "$100"
+  },
+  {
+    "title": "Keyboard for Dell 15R Laptop",
+    "price": "$15"
+  },
+  {
+    "title": "Targums defcon laptop lock",
+    "price": "$8"
+  },
+  {
+    "title": "Laptop RAM - 4GB DDR3 (several manufacturers)",
+    "price": "$15"
+  },
+  {
+    "title": "Laptop RAM - 8GB DDR3 NEW & USED (several manufacturers)",
+    "price": "$35"
+  },
+  {
+    "title": "Hottest DS games card for DS DSI 3DS 2DS NEW 3DS CONSOLES",
+    "price": "$1"
+  },
+  {
+    "title": "New Laptop Lock",
+    "price": "$10"
+  },
+  {
+    "title": "New Solo Urban 15.6\" Laptop Slim Brief, Black, UBN101-4",
+    "price": "$20"
+  },
+  {
+    "title": "New Targus 16-Inch Ascend Laptop Backpack",
+    "price": "$20"
+  },
+  {
+    "title": "American Tourister Rolling Briefcase",
+    "price": "$30"
+  },
+  {
+    "title": "American Tourister Rolling Briefcase",
+    "price": "$30"
+  },
+  {
+    "title": "Pelle Leather Messenger Bag",
+    "price": "$35"
+  },
+  {
+    "title": "DELL INSPIRON 17 5000 LAPTOP (17.3IN, INTEL I3, 8GB, 1TB, GREY)",
+    "price": "$725"
+  },
+  {
+    "title": "5 COMPUTERS",
+    "price": "$45"
+  },
+  {
+    "title": "Amazing Apple MacBook Intel Core 2 Duo",
+    "price": "$160"
+  },
+  {
+    "title": "Computer and Laptop Repairs FREE ESTIMATES - Starting at",
+    "price": "$49"
+  },
+  {
+    "title": "iPad and Tablet Screen Repairs iPad 2, 3, 4, mini, Air ...",
+    "price": "$50"
+  },
+  {
+    "title": "iPhone Cracked Screen Repairs 6, 6 plus, 6s, 6s plus,  7 and 7 plus",
+    "price": "$49"
+  },
+  {
+    "title": "HGST 500GB 7200 RPM 32MB Cache SATA 6.0Gb/s thin 7MM 2.5\" MacBook Pro",
+    "price": "$35"
+  },
+  {
+    "title": "Seagate Momentus 7200 RPM SATA 500GB laptop hard drive for Macbook /PC",
+    "price": "$30"
+  },
+  {
+    "title": "Seagate Momentus 7200 RPM SATA 500GB laptop hard drive for Macbook /PC",
+    "price": "$30"
+  },
+  {
+    "title": "powerful laptop cooler for 15.6 and 17 inch",
+    "price": "$20"
+  },
+  {
+    "title": "Laptop Bag Targus",
+    "price": "$20"
+  },
+  {
+    "title": "IBM lenovo Thinkpad R61 Laptop Computer Excellent Condition Windows 7",
+    "price": "$89"
+  },
+  {
+    "title": "Dell Latitude D630 Core 2 Duo laptop Computer Windows 7 Ready to USE",
+    "price": "$75"
+  },
+  {
+    "title": "IBM lenovo Thinkpad R61 Laptop Computer Excellent Condition Windows 7",
+    "price": "$89"
+  },
+  {
+    "title": "Dell Latitude D630 Core 2 Duo laptop Computer Windows 7 Ready to USE",
+    "price": "$99"
+  },
+  {
+    "title": "IBM lenovo Thinkpad R61 Laptop Computer Excellent Condition Windows 7",
+    "price": "$89"
+  },
+  {
+    "title": "Dell Latitude E6400 Core 2 Duo Laptop Computer Windows 7 WiFi WEBCAM",
+    "price": "$139"
+  },
+  {
+    "title": "IBM Lenovo T400 Core 2 Duo 2.53gHz 2GB RAM 100GB HDD!",
+    "price": "$129"
+  },
+  {
+    "title": "Dell Latitude E6400 Core 2 Duo Laptop Computer Windows 7 WiFi WEBCAM",
+    "price": "$139"
+  },
+  {
+    "title": "IBM Lenovo T400 Core 2 Duo 2.53gHz 2GB RAM 100GB HDD!",
+    "price": "$129"
+  },
+  {
+    "title": "IBM Lenovo T500 Core 2 Duo 2.53gHz 2GB RAM 100GB HDD!",
+    "price": "$129"
+  },
+  {
+    "title": "Dell Latitude D830 Core 2 Duo Laptop Computer Windows 7 WIFI READY",
+    "price": "$99"
+  },
+  {
+    "title": "Dell Latitude E6400 Core 2 Duo Laptop Computer Windows 7 WiFi WEBCAM",
+    "price": "$129"
+  },
+  {
+    "title": "IBM Lenovo T400 Core 2 Duo 2.53gHz 2GB RAM 100GB HDD!",
+    "price": "$129"
+  },
+  {
+    "title": "Samsung Chromebook 3 , and Nvidia Graphics Card",
+    "price": "$200"
+  },
+  {
+    "title": "Computer Networking",
+    "price": ""
+  },
+  {
+    "title": "Dell Latitude E6400 Core 2 Duo Laptop Computer Windows 7 WiFi WEBCAM",
+    "price": "$129"
+  },
+  {
+    "title": "Dell Latitude D830 Core 2 Duo Laptop Computer Windows 7 WIFI READY",
+    "price": "$99"
+  },
+  {
+    "title": "Dell Latitude D830 Core 2 Duo Laptop Computer Windows 7 WIFI READY",
+    "price": "$99"
+  }
+]
